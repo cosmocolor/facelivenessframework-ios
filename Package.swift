@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(name: "FaceLivenessFramework", 
                       url: "https://storage.googleapis.com/cosmo-ios-repo/FaceLivenessFramework.xcframework.zip", 
-                      checksum: "7d569c6fe5f771eed1ae6a33ff6db6cbc388ab3dde70d6c8679aceb7f8c349e5")
+                      checksum: "954fdf90f7a8562157f01a1c9f8c3560bf934162266d12bab0dc2ec82f281c5b")
         ],
     swiftLanguageVersions: [.v5]
 )
